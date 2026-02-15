@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.example
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+
+# Build çıktıları (ileride lazım olabilir)
+dist/
+build/
